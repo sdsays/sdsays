@@ -1,0 +1,7 @@
+#+title: Emacs: Devanagari Support
+
+| Command                         | Description                      |
+|---------------------------------+----------------------------------|
+| =C-x RET C-\ devanagari-itrans= | Change input method to देवनागरी   |
+| =C-\=                           | Toggle between Hindi and English |
+|                                 |                                  |

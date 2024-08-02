@@ -1,0 +1,8 @@
+#+TITLE: LiGNUx
+
+- [[file:emacs-devanagri.org][Emacs: Devanagari Support]] --- 2022-09-18
+- [[file:emacs-getting-started.org][Emacs: Getting Started]] --- 2019-01-13
+- [[file:learning-resources.org][Learning Resources]] --- 2019-01-10
+- [[file:intro-to-cmdline.org][An Introduction to GNU/Linux Commandline Interface]] --- 2018-07-27
+- [[file:tcl-basics.org][TCL Basics]] --- 2018-04-08
+- [[file:wrapping-standard-library-function-in-C.org][Wrapping Standard Library Function in C]] --- 2017-12-23

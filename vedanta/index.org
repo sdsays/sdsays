@@ -1,0 +1,5 @@
+#+TITLE: Vedãnta
+
+- [[file:dharmah.org][Dharmaḥ]] --- 2024-07-31
+- [[file:rudrashtakam.org][श्रीरुद्राष्टकम् (Srī Rudrāshtakam)]] --- 2024-07-30
+- [[file:poetry.org][Poetry]] --- 2024-07-29

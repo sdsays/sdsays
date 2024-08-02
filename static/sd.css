@@ -1,0 +1,28 @@
+body {
+    font-family: "Hanuman", sans-serif;
+}
+
+code,kbd,pre,samp,.priority,.tag,.org-src-container,.done,.todo {
+    font-family: "Fira Code", monospace;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display", sans-serif;
+}
+
+.verse {
+    background-color: #FBF0D9;
+    color: #5F4B32;
+    padding: 1em;
+}
+
+.example {
+    font-size: 120%;
+    color: #80091B;
+    font-family: "Fira Code", monospace;
+}
+
+.title {
+    color: #555;
+    font-weight: lighter;
+}

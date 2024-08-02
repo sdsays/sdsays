@@ -1,0 +1,22 @@
+* About this space
+This blog is written purely in [[https://orgmode.org/][Emacs Org Mode]], and hosts two ideas:
+- *vedānta*
+  - It is ancient indian philosophy and science of life. The term means =culmination of Knowledge=
+  - This section hosts explorations into vedānta literature, Poetry and Travels
+- *LiGNUx*
+  - It is mixed word from GNU and Linux
+  - This section hosts explorations into GNU/Linux and programming in general
+
+* Quick takeaways
+- Finite is misery, Infinite is Bliss!
+- Try to adopt [[https://www.gnu.org/home.en.html][GNU/Linux]]. It encourages freedom.
+- Embody each word below:
+  #+BEGIN_QUOTE
+  Serve. Love. Give. Purify. Meditate. Realise. -- Swami Sivananda
+  #+END_QUOTE
+
+#+begin_export html
+<div id="nav">
+<a href="https://www.github.com/shankaradaasa"><i class="fab fa-github-square fa-2x"></i></a>
+</div>
+#+end_export
